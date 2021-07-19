@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-cloud-zookeeper-consumer
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: beijingcore
+Implementation-Vendor-Id: com.yiidian
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-cloud-zookeeper-consumer
+Created-By: Maven Integration for Eclipse
+

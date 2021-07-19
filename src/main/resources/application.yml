@@ -1,0 +1,17 @@
+server:
+  port: 8002
+spring:
+  mvc:
+    view:
+      prefix: /
+      suffix: .html
+  application:
+    name: Consumer
+  cloud:
+    zookeeper:
+      discovery:
+        enabled: true
+      connect-string: localhost:2181
+logging:
+  level:
+    org.apache.zookeeper.ClientCnxn: WARN
